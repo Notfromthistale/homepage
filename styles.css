@@ -11,11 +11,11 @@
     line-height: 1.5;
   
     --primary-text-color: #181820;
-    --secondary-text-color: #5c5c62;
-    --durability-text-color: #6a737d9c;
+    --secondary-text-color: #171788;
+    --durability-text-color: #6a6e729c;
     --icon-color: #376daa;
     --border-color: #00000045;
-    --text-decoration-color: #d0ff00;
+    --text-decoration-color: #ff3300;
   }
   
   .container {
